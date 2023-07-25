@@ -1,0 +1,15 @@
+/Users/petrbinek/Projects/Основныеколлекции/Основныеколлекции/bin/Debug/net7.0/Основныеколлекции
+/Users/petrbinek/Projects/Основныеколлекции/Основныеколлекции/bin/Debug/net7.0/Основныеколлекции.deps.json
+/Users/petrbinek/Projects/Основныеколлекции/Основныеколлекции/bin/Debug/net7.0/Основныеколлекции.runtimeconfig.json
+/Users/petrbinek/Projects/Основныеколлекции/Основныеколлекции/bin/Debug/net7.0/Основныеколлекции.dll
+/Users/petrbinek/Projects/Основныеколлекции/Основныеколлекции/bin/Debug/net7.0/Основныеколлекции.pdb
+/Users/petrbinek/Projects/Основныеколлекции/Основныеколлекции/obj/Debug/net7.0/Основныеколлекции.csproj.AssemblyReference.cache
+/Users/petrbinek/Projects/Основныеколлекции/Основныеколлекции/obj/Debug/net7.0/Основныеколлекции.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrbinek/Projects/Основныеколлекции/Основныеколлекции/obj/Debug/net7.0/Основныеколлекции.AssemblyInfoInputs.cache
+/Users/petrbinek/Projects/Основныеколлекции/Основныеколлекции/obj/Debug/net7.0/Основныеколлекции.AssemblyInfo.cs
+/Users/petrbinek/Projects/Основныеколлекции/Основныеколлекции/obj/Debug/net7.0/Основныеколлекции.csproj.CoreCompileInputs.cache
+/Users/petrbinek/Projects/Основныеколлекции/Основныеколлекции/obj/Debug/net7.0/Основныеколлекции.dll
+/Users/petrbinek/Projects/Основныеколлекции/Основныеколлекции/obj/Debug/net7.0/refint/Основныеколлекции.dll
+/Users/petrbinek/Projects/Основныеколлекции/Основныеколлекции/obj/Debug/net7.0/Основныеколлекции.pdb
+/Users/petrbinek/Projects/Основныеколлекции/Основныеколлекции/obj/Debug/net7.0/Основныеколлекции.genruntimeconfig.cache
+/Users/petrbinek/Projects/Основныеколлекции/Основныеколлекции/obj/Debug/net7.0/ref/Основныеколлекции.dll
